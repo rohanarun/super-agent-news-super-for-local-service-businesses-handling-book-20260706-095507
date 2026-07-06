@@ -1,0 +1,51 @@
+{
+  "citations": [
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "Search Engine Journal",
+      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents",
+      "url": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.mit.edu/2025/qa-what-agentic-ai-today-and-what-do-we-want-it-be"
+    },
+    {
+      "source": "Blockchain Council",
+      "title": "MCP vs RAG vs Skills: AI Agent Architecture",
+      "url": "https://www.blockchain-council.org/ai/mcp-vs-rag-vs-skills-ai-agent-architecture/"
+    },
+    {
+      "source": "Let's Data Science",
+      "title": "Specialized AI Tools Boost Productivity Stacks in 2026",
+      "url": "https://letsdatascience.com/specialized-ai-tools-boost-productivity-stacks-in-2026/"
+    },
+    {
+      "source": "semai.ai",
+      "title": "How to Implement FAQPage and HowTo Schema for AEO",
+      "url": "https://semai.ai/blogs/how-to-implement-faqpage-and-howto-schema-for-aeo/"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash(title+kind+audience+generated_at) \u2192 architecture=workflow-command-center, typography=Cabinet Grotesk, components=[gapless-bento-grid, workflow-playbook-timeline, implementation-checklist], gsap=[card-stacking, hover-physics]. AIDA Check: Hero=Attention, Proof/Bento=Interest, Workflow+Media=Desire, CTA Band=Action. Font Selection: Cabinet Grotesk (headings/body). Hero Math Verification: max-width 1120px, clamp sizing ensures 2\u20133 lines. Bento Density Verification: grid-auto-flow:dense present. GSAP Motion Selection: guarded animations with fallbacks. Label Sweep & Button Check: black primary CTA, white secondary CTA verified.",
+  "generated_at": "2026-07-06T09:55:15.088591+00:00",
+  "headline": "Super for local service businesses handling bookings, quotes, and customer replies",
+  "site_brief": {
+    "audience": "local service businesses handling bookings, quotes, and customer replies",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work. Include a long-form field guide for this niche with concrete workflows, how-to steps, role-specific examples, objections, and a setup checklist.",
+    "kind": "niche_landing",
+    "queries": [
+      "local service businesses handling bookings, quotes, and customer replies AI assistant",
+      "local service businesses handling bookings, quotes, and customer replies personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-local-service-businesses-handling-bookings-quote",
+    "title": "Super for local service businesses handling bookings, quotes, and customer replies"
+  },
+  "summary": "A conversion\u2011focused, editorial\u2011grade niche landing page showing how local service businesses can use Super as a personal AI agent to handle bookings, quotes, and customer replies by operating real software and reusing a computer-use cache for repeated workflows."
+}
